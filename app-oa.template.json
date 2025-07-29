@@ -1,24 +1,18 @@
 {
-    "name": "${project.name}",
-    "version": "${project.version}",
-    "description": "${project.description}",
-    "platform": "complete",
-    "dependencies": [
-      {
-        "name": "app-platform-minimal",
-        "version": "^2.0.0"
-      }
-    ],
-    "modules": [
-      {
-        "name": "mod-oa",
-        "version": "3.2.0"
-      }
-    ],
-    "uiModules": [
-      {
-        "name": "folio_oa",
-        "version": "3.0.0"
-      }
-    ]
-  }
+  "name": "${project.name}",
+  "version": "${project.version}",
+  "description": "${project.description}",
+  "platform": "complete",
+  "dependencies": [  {
+    "name": "app-platform-minimal",
+    "version": "^2.0.0"
+  }],
+  "modules": [  {
+    "name": "mod-oa",
+    "version": "3.2.0"
+  }],
+  "uiModules": [  {
+    "name": "folio_oa",
+    "version": "3.0.0"
+  }]
+}
