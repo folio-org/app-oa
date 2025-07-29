@@ -12,13 +12,13 @@
     "modules": [
       {
         "name": "mod-oa",
-        "version": "latest"
+        "version": "3.2.0"
       }
     ],
     "uiModules": [
       {
         "name": "folio_oa",
-        "version": "latest"
+        "version": "3.0.0"
       }
     ]
   }
