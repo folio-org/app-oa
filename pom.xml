@@ -7,7 +7,7 @@
     <artifactId>app-oa</artifactId>
     <groupId>org.folio</groupId>
     <description>Application descriptor for the FOLIO OA application</description>
-    <version>1.0.0-SNAPSHOT</version>
+    <version>1.0.0</version>
 
     <properties>
         <project.name>app-oa</project.name>
