@@ -1,6 +1,6 @@
 {
   "name": "app-oa",
-  "version": "1.0.0-SNAPSHOT.100100000002475",
+  "version": "1.0.0-SNAPSHOT.100200000000569",
   "description": "Application descriptor for the FOLIO OA application",
   "platform": "complete",
   "dependencies": [
@@ -12,7 +12,7 @@
   "modules": [
     {
       "name": "mod-oa",
-      "version": "3.3.0-SNAPSHOT.191"
+      "version": "3.3.0-SNAPSHOT.192"
     }
   ],
   "uiModules": [
