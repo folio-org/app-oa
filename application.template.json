@@ -6,21 +6,21 @@
   "dependencies": [
     {
       "name": "app-platform-minimal",
-      "version": "^VERSION_^2.1.0",
+      "version": "^2.0.51",
       "preRelease": "false"
     }
   ],
   "modules": [
     {
       "name": "mod-oa",
-      "version": "^VERSION_latest",
+      "version": "^3.0.0",
       "preRelease": "false"
     }
   ],
   "uiModules": [
     {
       "name": "folio_oa",
-      "version": "^VERSION_latest",
+      "version": "^3.0.0",
       "preRelease": "false"
     }
   ]
