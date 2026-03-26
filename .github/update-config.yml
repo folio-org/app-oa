@@ -37,13 +37,3 @@ branches:
       preRelease: "false"
       ruleset:
         enabled: true
-  - R1-2025-ci-test2:
-      enabled: true
-      need_pr: true
-      preRelease: "false"
-      ruleset:
-        enabled: true
-#  - R2-2024:
-#      enable: false
-#      need_pr: true
-#      pre_release: "false"
