@@ -32,3 +32,9 @@ branches:
       skip_dependency_validation: bypass
       ruleset:
         enabled: false
+  - R1-2026:
+      enabled: true
+      need_pr: true
+      preRelease: "false"
+      ruleset:
+        enabled: true
